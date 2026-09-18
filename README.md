@@ -35,13 +35,20 @@ The application was tested by:
 
 ## Project Structure
 ```text
-JavaQuiz
-├── src
+JavaQuiz/
+├── src/
 │   ├── Main.java
 │   ├── Question.java
 │   ├── QuestionBank.java
 │   ├── Quiz.java
 │   ├── QuizManager.java
 │   └── Result.java
+├── architecture.md
+├── workflow.md
+├── requirements.md
 ├── statement.md
-└── README.md
+├── README.md
+├── uml.md
+├── workflow.png
+├── architecture.png
+└── usecase.png
